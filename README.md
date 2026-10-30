@@ -73,8 +73,8 @@ To reduce the risk of misuse, the tool:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/whoami592/cctv_info_gatherer.git
+cd cctv_info_gatherer
 ```
 
 No `pip install` needed.
